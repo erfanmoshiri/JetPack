@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  jetpack.cpp
+e:\uni\c programs\project\jetpack\jetpack\jetpack.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\uni\c programs\project\jetpack\jetpack\jetpack.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\uni\c programs\project\jetpack\jetpack\jetpack.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\uni\c programs\project\jetpack\jetpack\jetpack.cpp(220): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\uni\c programs\project\jetpack\jetpack\jetpack.cpp(230): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  jetpack.vcxproj -> E:\uni\C programs\project\jetpack\Debug\jetpack.exe
+  jetpack.vcxproj -> E:\uni\C programs\project\jetpack\Debug\jetpack.pdb (Full PDB)
